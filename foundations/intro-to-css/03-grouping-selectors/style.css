@@ -1,0 +1,14 @@
+.rightone{
+    background-color: black;
+    color: white;
+}
+
+.leftone{
+    background-color: yellow;
+
+}
+
+.rightone, .leftone{
+    font-size: 20px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}

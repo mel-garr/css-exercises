@@ -1,0 +1,19 @@
+p {
+    background-color: pink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#fid
+{
+    color: blue;
+    font-size: 36px;
+}
+
+.coolerclass{
+    font-size: 24px;
+}
+
+#sid{
+    background-color: lightgreen;
+    font-weight: bold;
+}
